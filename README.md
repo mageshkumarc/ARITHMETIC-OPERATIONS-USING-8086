@@ -158,7 +158,7 @@ END
 3. Multiply.
 4. Store result.
 
-##FLOWCHART
+### FLOWCHART
 
 <img width="569" height="906" alt="image" src="https://github.com/user-attachments/assets/88be88ff-2896-4a88-b73d-84ccffd2fcf9" />
 
