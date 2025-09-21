@@ -55,17 +55,33 @@ END
 
 #### Output Table
 
-| MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
+| MEMORY LOCATION (INPUT) |      DATA (INPUT)        |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|         2000            |           86             |
+|         2001            |           49             |
+|         2002            |           13             |
+|         2003            |           35             |
+
+
+| MEMORY LOCATION (OUTPUT)|      DATA (OUTPUT)       |
+| ----------------------- | ------------------------ |
+|         2004            |           99             |
+|         2005            |           7E             |
+|         2006            |           00             |
+
 
 #### Manual Calculations
 
-(Add your calculation here)
+![WhatsApp Image 2025-09-21 at 22 13 15_8fb7f91b](https://github.com/user-attachments/assets/1879e6df-bec8-4eed-a11e-85ee0cd1dec5)
+
 
 ---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
+
+<img width="637" height="398" alt="INDIRECT ADDITION OUTPUT" src="https://github.com/user-attachments/assets/da003391-ce67-4696-8dc9-ac04e5efefe3" />
+
+
 
 ## 2. SUBTRACTION
 
@@ -106,18 +122,32 @@ END
 
 #### Output Table
 
-| MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
+| MEMORY LOCATION (INPUT) |      DATA (INPUT)        |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|         2000            |           86             |
+|         2001            |           49             |
+|         2002            |           13             |
+|         2003            |           35             |
+
+
+| MEMORY LOCATION (OUTPUT)|      DATA (OUTPUT)       |
+| ----------------------- | ------------------------ |
+|         2004            |           73             |
+|         2005            |           14             |
+|         2006            |           00             |
 
 #### Manual Calculations
 
-(Add your calculation here)
+![WhatsApp Image 2025-09-21 at 22 13 15_fe1989e3](https://github.com/user-attachments/assets/b9b8fbf6-298e-4474-8766-21145f0cba38)
+
 
 ---
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+
+<img width="639" height="399" alt="INDIRECT SUBTRACTION OUTPUT" src="https://github.com/user-attachments/assets/ba6e81d1-40e4-4aaa-a223-0d1b989de89f" />
+
 
 ## 3. MULTIPLICATION
 
@@ -155,17 +185,31 @@ END
 
 #### Output Table
 
-| MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
+| MEMORY LOCATION (INPUT) |      DATA (INPUT)        |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|         2000            |           86             |
+|         2001            |           49             |
+|         2002            |           13             |
+|         2003            |           35             |
+
+
+| MEMORY LOCATION (OUTPUT)|      DATA (OUTPUT)       |
+| ----------------------- | ------------------------ |
+|         2004            |           1D             |
+|         2005            |           38             |
+|         2006            |           13             |
 
 #### Manual Calculations
 
-(Add your calculation here)
+![WhatsApp Image 2025-09-21 at 22 13 15_87454127](https://github.com/user-attachments/assets/3b8bdaad-7c42-4fed-818a-946e332f1c2a)
+
 
 ---
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+
+<img width="637" height="399" alt="INDIRECT MULTIPLICATION OUTPUT" src="https://github.com/user-attachments/assets/2da13846-b0ab-4294-9a8f-0088be80b56e" />
+
 
 ## 4. DIVISION
 
@@ -200,17 +244,29 @@ END
 
 #### Output Table
 
-| MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
+| MEMORY LOCATION (INPUT) |      DATA (INPUT)        |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|         2000            |           68             |
+|         2001            |           24             |
+|         2002            |           68             |
+|         2003            |           22             |
+
+
+| MEMORY LOCATION (OUTPUT)|      DATA (OUTPUT)       |
+| ----------------------- | ------------------------ |
+|         2004            |           00             |
+|         2005            |           01             |
+|         2006            |           02             |
 
 #### Manual Calculations
 
-(Add your calculation here)
+![WhatsApp Image 2025-09-21 at 22 13 15_6d02462d](https://github.com/user-attachments/assets/3624e44b-b0ac-48bc-8c7d-231c86f18df6)
+
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
 
+<img width="635" height="394" alt="INDIRECT DIVSION OUTPUT" src="https://github.com/user-attachments/assets/9d3cd038-b3f6-43b0-b9f9-41e89f43a02c" />
 
 
 ## RESULT
